@@ -13,6 +13,7 @@
     "declarationDir": "dist",
     "emitDeclarationOnly": false,
     "allowImportingTsExtensions": true,
+    "noEmit": true,
     "outDir": "dist"
   },
   "include": ["src"]
